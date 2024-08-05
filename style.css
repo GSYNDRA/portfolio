@@ -1,14 +1,29 @@
+
 html{
     background-color: antiquewhite;
 }
 h1{
     color: whitesmoke;
     background-color: darkseagreen;
+    text-align: center;    
 }
 #main{
     color: #FAF8F1;
     background-color: #C58940;
+    text-align:center;    
+
 }
-a{
+.github{
     color: black;
+    font-family: "Caveat", cursive;
+}
+#me{
+    color:black;
+}
+.hi{
+    text-align: center;
+}
+
+.footer{
+    text-align: right;
 }
